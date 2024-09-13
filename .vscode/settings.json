@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "l86_gnss_parser.h": "c",
+        "usr_gnss_general.h": "c"
+    }
+}
