@@ -1,6 +1,8 @@
 # STM32 L86 GNSS PARSER
 ### STM32 GNSS Parser lib customized for model rocket avionic system
 
+You can fint the original parser lib on [L86-GNSS-Parser-Lib](https://github.com/noumanimpra/L86-GNSS-Parser-Lib/tree/main).
+
 <br>
 <div align="center">
     <p>
