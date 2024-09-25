@@ -21,7 +21,7 @@ You can fint the original parser lib on [L86-GNSS-Parser-Lib](https://github.com
     Current Version: v1.0.2
 
     However, please note that there may be missing features, bugs, or incomplete documentation.
-    <b>Contributions are welcome! ⚠️ </b></p>
+    Contributions are welcome! ⚠️
 </div>
 
 ### Usage Ex.
