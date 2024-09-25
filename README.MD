@@ -19,7 +19,6 @@ You can fint the original parser lib on [L86-GNSS-Parser-Lib](https://github.com
     Designed to parse GNSS data from the Quectel L86 module, tailored for use in model rocket avionics systems. It processes the incoming NMEA sentences and extracts essential GPS information, such as latitude, longitude, altitude, and satellite count. The parser is optimized for STM32 microcontrollers but can be adapted to other platforms.
     <br>
     Current Version: v1.0.2
-
     However, please note that there may be missing features, bugs, or incomplete documentation.
     Contributions are welcome! ⚠️
 </div>
